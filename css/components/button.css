@@ -1,0 +1,13 @@
+.btn-brown {
+  background-color: #AD956B;
+  padding: 20px 24px;
+  border-radius: 6px;
+  color: white;
+  font-weight: bold;
+  font-family: Merriweather, serif;
+  font-style: italic;
+}
+
+.btn-brown:hover {
+	background-color: #6B72E1;
+}
